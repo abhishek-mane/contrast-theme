@@ -50,14 +50,16 @@ toc: true
   - `Java`
   <table>
   <tr>
-    <td>100</td>
+    <td>`JavaScript`</td>
     <td>200</td>
-    <td>300</td>
   </tr>
   <tr>
-    <td>400</td>
-    <td>500</td>
-    <td>600</td>
+    <td><h3>Python<h3></td>
+    <td>200</td>
+  </tr>
+  <tr>
+    <td><h4>Java<h4></td>
+    <td>200</td>
   </tr>
   </table>
 
