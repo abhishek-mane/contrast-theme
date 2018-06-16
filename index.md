@@ -42,7 +42,9 @@ toc: true
 ## Skills & Technologies <i class='fa fa-laptop' aria-hidden='true'></i>
   <table style="border:none;">
     <tr style="border:none;">
-      <td><strong>JavaScript</strong></td>
+      <td>
+        <ul><li><strong>JavaScript</strong></li></ul>
+      </td>
       <td>
         <div style="width: 100%;background-color: #ddd;">
           <div style="width: 90%; background-color: #1E824C;text-align: right;padding-right: 20px;line-height: 5px;color: #1E824C; border-radius:5px;">-</div>
@@ -50,7 +52,9 @@ toc: true
       </td>
     </tr>
     <tr style="border:none;">
-      <td><strong>JavaScript</strong></td>
+      <td>
+        <ul><li><strong>JavaScript</strong></li></ul>
+      </td>
       <td>
         <div style="width: 100%;background-color: #ddd;">
           <div style="width: 90%; background-color: #1E824C;text-align: right;padding-right: 20px;line-height: 5px;color: #1E824C; border-radius:5px;">-</div>
@@ -58,7 +62,9 @@ toc: true
       </td>
     </tr>
     <tr style="border:none;">
-      <td><strong>JavaScript</strong></td>
+      <td>
+        <ul><li><strong>JavaScript</strong></li></ul>
+      </td>
       <td>
         <div style="width: 100%;background-color: #ddd;">
           <div style="width: 90%; background-color: #1E824C;text-align: right;padding-right: 20px;line-height: 5px;color: #1E824C; border-radius:5px;">-</div>
@@ -66,7 +72,9 @@ toc: true
       </td>
     </tr>
     <tr style="border:none;">
-      <td><strong>JavaScript</strong></td>
+      <td>
+        <ul><li><strong>JavaScript</strong></li></ul>
+      </td>
       <td>
         <div style="width: 100%;background-color: #ddd;">
           <div style="width: 90%; background-color: #1E824C;text-align: right;padding-right: 20px;line-height: 5px;color: #1E824C; border-radius:5px;">-</div>
