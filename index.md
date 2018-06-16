@@ -30,7 +30,7 @@ toc: true
 <!-- 
   <==========================> START  : Projects
 -->
-## Projects         <i class="fa fa-lightbulb-o" aria-hidden="true"></i>
+## PROJECTS <i class="fa fa-lightbulb-o" aria-hidden="true"></i>
   <small>Projects are yet to add. working on it...</small>
 <!-- 
   <==========================> END    : Projects
