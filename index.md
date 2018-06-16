@@ -50,10 +50,10 @@ toc: true
   - `Java`
   <table style="border:none;">
   <tr style="border:none;">
-    <td><code class="highlighter-rouge">JavaScript</code></td>
+    <td><h1>JavaScript</h1></td>
     <td>
       <div style="width: 100%;background-color: #ddd;">
-        <div style="width: 90%; background-color: #4CAF50;text-align: right;padding-right: 20px;line-height: 5px;color: white; border-radius: 3px;"></div>
+        <div style="width: 90%; background-color: #4CAF50;text-align: right;padding-right: 20px;line-height: 5px;color: white;"></div>
       </div>
     </td>
   </tr>
