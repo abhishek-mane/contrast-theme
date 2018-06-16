@@ -53,7 +53,7 @@ toc: true
     <td>JavaScript</td>
     <td>
       <div style="width: 100%;background-color: #ddd;">
-        <div style="width: 90%; background-color: #4CAF50;text-align: right;padding-right: 20px;line-height: 40px;color: white;">65%</div>
+        <div style="width: 90%; background-color: #4CAF50;text-align: right;padding-right: 20px;line-height: 5px;color: white;">65%</div>
       </div>
     </td>
   </tr>
@@ -61,7 +61,7 @@ toc: true
     <td><h3>Python</h3></td>
     <td>
       <div style="width: 100%;background-color: #ddd;">
-        <div style="width: 80%; background-color: #2196F3;text-align: right;padding-right: 20px;line-height: 40px;color: white;">65%</div>
+        <div style="width: 80%; background-color: #2196F3;text-align: right;padding-right: 20px;line-height: 10px;color: white;">65%</div>
       </div>
     </td>
   </tr>
@@ -69,7 +69,15 @@ toc: true
     <td><h4>Java</h4></td>
     <td>
       <div style="width: 100%;background-color: #ddd;">
-        <div style="width: 65%; background-color: #f44336;text-align: right;padding-right: 20px;line-height: 40px;color: white;">65%</div>
+        <div style="width: 65%; background-color: #f44336;text-align: right;padding-right: 20px;line-height: 15px;color: white;">65%</div>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td><h4>Java</h4></td>
+    <td>
+      <div style="width: 100%;background-color: #ddd;">
+        <div style="width: 65%; background-color: #f44336;text-align: right;padding-right: 20px;line-height: 20px;color: white;">65%</div>
       </div>
     </td>
   </tr>
