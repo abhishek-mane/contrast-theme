@@ -5,8 +5,6 @@ permalink: /
 toc: true
 ---
 
-<button class='btn btn--danger'>Site is under maintenance...</button>
-
 <!-- 
   <==========================> START  : Experience
 -->
@@ -155,9 +153,6 @@ toc: true
 <!-- 
   <==========================> END    : Contact
 -->
-
-# Contact   <i class='fa fa-phone-square' aria-hidden='true'></i>
-  Thi is the simple text require dor me ti hsa dasd daskdd dosd njsd sahdk ashd  s* sjdhs sjhahwhuiw uf fhhfkshdkhfeiuwfhkshf duf iijfksdlkjfiewyfiuufh efufeffiefuijfdnbdfdshubd fdhssuygfyusdgydfyu fuhfudsuihudgu fuesufewufgsudhf sudfeuwfhiuhsdfgdsfhe sfushduhfushuiheiufysu sdfuidhfdsf fsifduhd dsuifh siufhufds uisf sfudsfusidfhsdufsdf dsfs fs fs fsd f sdfdsf sfsdf du sf udsf fd s fdus fs fusdhfshfu sf sdf sf  sf f dsf sf uh suifhsdifhdhushfshsuhfs iu sfis fs f sfus hf hs hfsh hdfh siufhi
 <!-- 
   <==========================> END    : Contact
 -->
