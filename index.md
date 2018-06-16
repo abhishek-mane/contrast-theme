@@ -42,13 +42,13 @@ toc: true
 ## Skills & Technologies <i class='fa fa-laptop' aria-hidden='true'></i>
   <table style="border: none; width: 100%">
     <colgroup>
-       <col span="1" style="width: 30%;">
-       <col span="1" style="width: 70%;">
+       <col span="1" style="width: 50%;">
+       <col span="1" style="width: 50%;">
     </colgroup>
     <tbody>
       <tr style="border: none;">
         <td>
-          <ul><li><strong>JavaScript</strong></li></ul>
+          <strong>JavaScript</strong>
         </td>
         <td>
           <div style="width: 100%;background-color: #ddd;">
@@ -56,23 +56,23 @@ toc: true
           </div>
         </td>
       </tr>
-      <tr>
+      <tr style="border: none;">
         <td>
-          <ul><li><strong>JavaScript</strong></li></ul>
+          <strong>JavaScript</strong>
         </td>
         <td>
           <div style="width: 100%;background-color: #ddd;">
-            <div style="width: 90%; background-color: #1E824C;text-align: right;padding-right: 20px;line-height: 5px;color: #1E824C; border-radius:5px;">-</div>
+            <div style="width: 90%; background-color: #1E824C; line-height: 5px;color: #1E824C; border-radius:5px;">-</div>
           </div>
         </td>
       </tr>
-      <tr>
+      <tr style="border: none;">
         <td>
-          <ul><li><strong>JavaScript</strong></li></ul>
+          <strong>JavaScript</strong>
         </td>
         <td>
           <div style="width: 100%;background-color: #ddd;">
-            <div style="width: 90%; background-color: #1E824C;text-align: right;padding-right: 20px;line-height: 5px;color: #1E824C; border-radius:5px;">-</div>
+            <div style="width: 90%; background-color: #1E824C; line-height: 5px;color: #1E824C; border-radius:5px;">-</div>
           </div>
         </td>
       </tr>
