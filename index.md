@@ -129,7 +129,9 @@ toc: true
 <!-- 
   <==========================> START  : Education
 -->
-## Education        <i class="fa fa-pencil" aria-hidden="true"></i> 
+## EDUCATION <i class="fa fa-pencil" aria-hidden="true"></i> 
+
+* Graduation in Computer Science `2012 - 2016`
 
 * **Graduation in Computer Science** `2012 - 2016`   <br/>
   <small>
