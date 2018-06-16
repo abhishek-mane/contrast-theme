@@ -94,7 +94,7 @@ toc: true
           </div>
         </td>
         <td>
-          <img src="https://raw.githubusercontent.com/abhishek-mane/contrast-theme/master/assets/images/tech-logos/hadoop-64.png"/>
+          <img src="https://raw.githubusercontent.com/abhishek-mane/contrast-theme/master/assets/images/tech-logos/hadoop.png"/>
         </td>
         <td>
           <div>
