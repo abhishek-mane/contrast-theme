@@ -41,7 +41,7 @@ toc: true
 -->
 ## Skills & Technologies <i class='fa fa-laptop' aria-hidden='true'></i>
   <table style="border:1px dotted red;">
-    <tr style="border: 1px solid blue;">
+    <tr style="border: none;">
       <td>
         <ul><li><strong>JavaScript</strong></li></ul>
       </td>
