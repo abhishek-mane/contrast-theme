@@ -42,10 +42,10 @@ toc: true
 ## Skills & Technologies <i class='fa fa-laptop' aria-hidden='true'></i>
   <table class="skills_table">
     <colgroup>
-       <col span="1" style="width: 25%;">
-       <col span="1" style="width: 25%;">
-       <col span="1" style="width: 25%;">
-       <col span="1" style="width: 25%;">
+       <col span="1" style="width: 20%;">
+       <col span="1" style="width: 30%;">
+       <col span="1" style="width: 20%;">
+       <col span="1" style="width: 30%;">
     </colgroup>
     <tbody>
       <tr>
