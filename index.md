@@ -54,11 +54,11 @@ toc: true
     <td>200</td>
   </tr>
   <tr>
-    <td><h3>Python<h3></td>
+    <td><h3>Python</h3></td>
     <td>200</td>
   </tr>
   <tr>
-    <td><h4>Java<h4></td>
+    <td><h4>Java</h4></td>
     <td>200</td>
   </tr>
   </table>
