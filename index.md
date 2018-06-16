@@ -131,6 +131,8 @@ toc: true
 -->
 ## EDUCATION <i class="fa fa-pencil" aria-hidden="true"></i> 
 
+This is normal para
+
 * Graduation in Computer Science `2012 - 2016`
 
 * **Graduation in Computer Science** `2012 - 2016`   <br/>
