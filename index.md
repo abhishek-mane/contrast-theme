@@ -40,8 +40,8 @@ toc: true
   <==========================> START  : Programming Skills
 -->
 ## Skills & Technologies <i class='fa fa-laptop' aria-hidden='true'></i>
-  <table style="border:none;">
-    <tr style="border:none;">
+  <table style="border:1px dotted red;">
+    <tr>
       <td>
         <ul><li><strong>JavaScript</strong></li></ul>
       </td>
@@ -51,7 +51,7 @@ toc: true
         </div>
       </td>
     </tr>
-    <tr style="border:none;">
+    <tr>
       <td>
         <ul><li><strong>JavaScript</strong></li></ul>
       </td>
@@ -61,17 +61,7 @@ toc: true
         </div>
       </td>
     </tr>
-    <tr style="border:none;">
-      <td>
-        <ul><li><strong>JavaScript</strong></li></ul>
-      </td>
-      <td>
-        <div style="width: 100%;background-color: #ddd;">
-          <div style="width: 90%; background-color: #1E824C;text-align: right;padding-right: 20px;line-height: 5px;color: #1E824C; border-radius:5px;">-</div>
-        </div>
-      </td>
-    </tr>
-    <tr style="border:none;">
+    <tr>
       <td>
         <ul><li><strong>JavaScript</strong></li></ul>
       </td>
