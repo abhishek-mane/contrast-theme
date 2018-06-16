@@ -40,15 +40,15 @@ toc: true
   <==========================> START  : Programming Skills
 -->
 ## Skills & Technologies <i class='fa fa-laptop' aria-hidden='true'></i>
-  <table style="border: none; width: 100%">
+  <table class="skills_table">
     <colgroup>
        <col span="1" style="width: 50%;">
        <col span="1" style="width: 50%;">
     </colgroup>
     <tbody>
-      <tr style="border: none;">
+      <tr>
         <td>
-          <strong>JavaScript</strong>
+          <img src="https://cdn4.iconfinder.com/data/icons/logos-3/456/nodejs-new-pantone-black-64.png"/>
         </td>
         <td>
           <div style="width: 100%;background-color: #ddd;">
@@ -56,9 +56,9 @@ toc: true
           </div>
         </td>
       </tr>
-      <tr style="border: none;">
+      <tr>
         <td>
-          <strong>JavaScript</strong>
+          <img src="https://cdn4.iconfinder.com/data/icons/logos-3/456/nodejs-new-pantone-black-64.png"/>
         </td>
         <td>
           <div style="width: 100%;background-color: #ddd;">
@@ -66,8 +66,18 @@ toc: true
           </div>
         </td>
       </tr>
-      <tr style="border: none;">
-        <td style="text-align:center; border-bottom: none">
+      <tr>
+        <td>
+          <img src="https://cdn4.iconfinder.com/data/icons/logos-3/456/nodejs-new-pantone-black-64.png"/>
+        </td>
+        <td>
+          <div style="width: 100%;background-color: #ddd;">
+            <div style="width: 90%; background-color: #1E824C; line-height: 5px;color: #1E824C; border-radius:5px;">-</div>
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td>
           <img src="https://cdn4.iconfinder.com/data/icons/logos-3/456/nodejs-new-pantone-black-64.png"/>
         </td>
         <td>
