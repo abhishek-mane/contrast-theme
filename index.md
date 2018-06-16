@@ -85,24 +85,6 @@ toc: true
       </tr>
       <tr>
         <td>
-          <img src="https://raw.githubusercontent.com/abhishek-mane/contrast-theme/master/assets/images/tech-logos/spark-64.png"/>
-        </td>
-        <td>
-          <div>
-            <div style="width: 60%;">-</div>
-          </div>
-        </td>
-        <td>
-          <img src="https://raw.githubusercontent.com/abhishek-mane/contrast-theme/master/assets/images/tech-logos/hadoop.png"/>
-        </td>
-        <td>
-          <div>
-            <div style="width: 60%;">-</div>
-          </div>
-        </td>
-      </tr>
-      <tr>
-        <td>
           <img src="https://raw.githubusercontent.com/abhishek-mane/contrast-theme/master/assets/images/tech-logos/mongodb.png"/>
         </td>
         <td>
@@ -116,6 +98,24 @@ toc: true
         <td>
           <div>
             <div style="width: 50%;">-</div>
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <img src="https://raw.githubusercontent.com/abhishek-mane/contrast-theme/master/assets/images/tech-logos/spark-64.png"/>
+        </td>
+        <td>
+          <div>
+            <div style="width: 60%;">-</div>
+          </div>
+        </td>
+        <td>
+          <img src="https://raw.githubusercontent.com/abhishek-mane/contrast-theme/master/assets/images/tech-logos/hadoop.png"/>
+        </td>
+        <td>
+          <div>
+            <div style="width: 60%;">-</div>
           </div>
         </td>
       </tr>
