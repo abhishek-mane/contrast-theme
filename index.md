@@ -58,7 +58,7 @@ toc: true
           </div>
         </td>
         <td>
-          <img src="https://cdn4.iconfinder.com/data/icons/logos-3/456/nodejs-new-pantone-black-64.png"/>
+          <img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-64.png"/>
         </td>
         <td>
           <div>
@@ -68,7 +68,7 @@ toc: true
       </tr>
       <tr>
         <td>
-          <img src="https://cdn4.iconfinder.com/data/icons/logos-3/456/nodejs-new-pantone-black-64.png"/>
+          <img src="https://cdn4.iconfinder.com/data/icons/scripting-and-programming-languages/512/1416364765_java_coffee_x_cup_application-2-64.png"/>
         </td>
         <td>
           <div>
@@ -76,7 +76,7 @@ toc: true
           </div>
         </td>
         <td>
-          <img src="https://cdn4.iconfinder.com/data/icons/logos-3/456/nodejs-new-pantone-black-64.png"/>
+          <img src="https://raw.githubusercontent.com/abhishek-mane/contrast-theme/master/assets/images/tech-logos/golang-64.png"/>
         </td>
         <td>
           <div>
