@@ -56,7 +56,6 @@ toc: true
           <div>
             <div style="width: 80%;">-</div>
           </div>
-          <h4>80 %</h4>
         </td>
         <td>
           <img src="https://raw.githubusercontent.com/abhishek-mane/contrast-theme/master/assets/images/tech-logos/js-64.png"/>
@@ -65,7 +64,6 @@ toc: true
           <div>
             <div style="width: 80%;">-</div>
           </div>
-          <h4>80 %</h4>
         </td>
       </tr>
       <tr>
@@ -76,7 +74,6 @@ toc: true
           <div>
             <div style="width: 60%;">-</div>
           </div>
-          <h4>60 %</h4>
         </td>
         <td>
           <img src="https://raw.githubusercontent.com/abhishek-mane/contrast-theme/master/assets/images/tech-logos/golang-64.png"/>
@@ -85,7 +82,6 @@ toc: true
           <div>
             <div style="width: 40%;">-</div>
           </div>
-          <h4>40 %</h4>
         </td>
       </tr>
       <tr>
@@ -96,7 +92,6 @@ toc: true
           <div>
             <div style="width: 60%;">-</div>
           </div>
-          <h4>60 %</h4>
         </td>
         <td>
           <img src="https://raw.githubusercontent.com/abhishek-mane/contrast-theme/master/assets/images/tech-logos/hadoop.png"/>
@@ -105,7 +100,24 @@ toc: true
           <div>
             <div style="width: 60%;">-</div>
           </div>
-          <h4>60 %</h4>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <img src="https://raw.githubusercontent.com/abhishek-mane/contrast-theme/master/assets/images/tech-logos/mongodb.png"/>
+        </td>
+        <td>
+          <div>
+            <div style="width: 60%;">-</div>
+          </div>
+        </td>
+        <td>
+          <img src="https://raw.githubusercontent.com/abhishek-mane/contrast-theme/master/assets/images/tech-logos/couchdb.png"/>
+        </td>
+        <td>
+          <div>
+            <div style="width: 50%;">-</div>
+          </div>
         </td>
       </tr>
     </tbody>
