@@ -53,26 +53,26 @@ toc: true
     </td>
   </tr>
   <tr style="border:none;">
-    <td><h2>Python</h2></td>
+    <td><h1>JavaScript</h1></td>
     <td>
       <div style="width: 100%;background-color: #ddd;">
-        <div style="width: 80%; background-color: #2196F3;text-align: right;padding-right: 20px;line-height: 10px;color: white;">65%</div>
+        <div style="width: 90%; background-color: #1E824C;text-align: right;padding-right: 20px;line-height: 5px;color: #1E824C; border-radius:5px;">-</div>
       </div>
     </td>
   </tr>
-  <tr>
-    <td><h4>Java</h4></td>
+  <tr style="border:none;">
+    <td><h1>JavaScript</h1></td>
     <td>
       <div style="width: 100%;background-color: #ddd;">
-        <div style="width: 65%; background-color: #f44336;text-align: right;padding-right: 20px;line-height: 15px;color: white;">65%</div>
+        <div style="width: 90%; background-color: #1E824C;text-align: right;padding-right: 20px;line-height: 5px;color: #1E824C; border-radius:5px;">-</div>
       </div>
     </td>
   </tr>
-  <tr>
-    <td><h4>Java</h4></td>
+  <tr style="border:none;">
+    <td><h1>JavaScript</h1></td>
     <td>
       <div style="width: 100%;background-color: #ddd;">
-        <div style="width: 65%; background-color: #f44336;text-align: right;padding-right: 20px;line-height: 20px;color: white;">65%</div>
+        <div style="width: 90%; background-color: #1E824C;text-align: right;padding-right: 20px;line-height: 5px;color: #1E824C; border-radius:5px;">-</div>
       </div>
     </td>
   </tr>
