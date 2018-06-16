@@ -68,7 +68,7 @@ toc: true
       </tr>
       <tr style="border: none;">
         <td>
-          <strong>JavaScript</strong>
+          <img src="https://cdn4.iconfinder.com/data/icons/logos-3/456/nodejs-new-pantone-black-512.png"/>
         </td>
         <td>
           <div style="width: 100%;background-color: #ddd;">
