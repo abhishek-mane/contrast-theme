@@ -67,7 +67,7 @@ toc: true
         </td>
       </tr>
       <tr style="border: none;">
-        <td style="text-align:center;">
+        <td style="text-align:center; border-bottom: none">
           <img src="https://cdn4.iconfinder.com/data/icons/logos-3/456/nodejs-new-pantone-black-64.png"/>
         </td>
         <td>
