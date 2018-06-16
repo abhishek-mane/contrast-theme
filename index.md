@@ -81,6 +81,7 @@ toc: true
         <td>
           <div>
             <div style="width: 40%;">-</div>
+            <h3>40 %</h3>
           </div>
         </td>
       </tr>
@@ -91,6 +92,7 @@ toc: true
         <td>
           <div>
             <div style="width: 60%;">-</div>
+            <h5>60 %</h5>
           </div>
         </td>
         <td>
@@ -99,6 +101,7 @@ toc: true
         <td>
           <div>
             <div style="width: 60%;">-</div>
+            <h4>60 %</h4>
           </div>
         </td>
       </tr>
