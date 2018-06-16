@@ -52,7 +52,7 @@ toc: true
         </td>
         <td>
           <div style="width: 100%;background-color: #ddd;">
-            <div style="width: 90%; background-color: #1E824C;text-align: right;padding-right: 20px;line-height: 5px;color: #1E824C; border-radius:5px;">-</div>
+            <div style="width: 90%; background-color: #1E824C; line-height: 5px;color: #1E824C; border-radius:5px;">-</div>
           </div>
         </td>
       </tr>
