@@ -56,6 +56,7 @@ toc: true
           <div>
             <div style="width: 80%;">-</div>
           </div>
+          <h4>80 %</h4>
         </td>
         <td>
           <img src="https://raw.githubusercontent.com/abhishek-mane/contrast-theme/master/assets/images/tech-logos/js-64.png"/>
@@ -64,6 +65,7 @@ toc: true
           <div>
             <div style="width: 80%;">-</div>
           </div>
+          <h4>80 %</h4>
         </td>
       </tr>
       <tr>
@@ -74,6 +76,7 @@ toc: true
           <div>
             <div style="width: 60%;">-</div>
           </div>
+          <h4>60 %</h4>
         </td>
         <td>
           <img src="https://raw.githubusercontent.com/abhishek-mane/contrast-theme/master/assets/images/tech-logos/golang-64.png"/>
@@ -81,8 +84,8 @@ toc: true
         <td>
           <div>
             <div style="width: 40%;">-</div>
-            <h3>40 %</h3>
           </div>
+          <h4>40 %</h4>
         </td>
       </tr>
       <tr>
@@ -92,8 +95,8 @@ toc: true
         <td>
           <div>
             <div style="width: 60%;">-</div>
-            <h5>60 %</h5>
           </div>
+          <h4>60 %</h4>
         </td>
         <td>
           <img src="https://raw.githubusercontent.com/abhishek-mane/contrast-theme/master/assets/images/tech-logos/hadoop.png"/>
@@ -101,8 +104,8 @@ toc: true
         <td>
           <div>
             <div style="width: 60%;">-</div>
-            <h4>60 %</h4>
           </div>
+          <h4>60 %</h4>
         </td>
       </tr>
     </tbody>
