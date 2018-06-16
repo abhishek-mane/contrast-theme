@@ -128,8 +128,7 @@ toc: true
 -->
 ## EDUCATION <i class="fa fa-pencil" aria-hidden="true"></i> 
 
-* **Graduation in Computer Science** `2012 - 2016` 
-  <br/><i class="fa fa-institution" aria-hidden="true"></i> _D. Y. Patil College of Engineering,_ <i class="fa fa-map-marker" aria-hidden="true"></i> _Akurdi, Pune._
+* **Graduation in Computer Science** `2012 - 2016` from _D. Y. Patil College of Engineering, Akurdi, Pune._
 
 * **Higher Education** `2010 - 2012` 
   <br/><i class="fa fa-institution" aria-hidden="true"></i> _Bharat English School & Jr. College,_ <i class="fa fa-map-marker" aria-hidden="true"></i> _Shivajinagar, Pune._
