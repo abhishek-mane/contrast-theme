@@ -131,27 +131,20 @@ toc: true
 -->
 ## Education        <i class="fa fa-pencil" aria-hidden="true"></i> 
 
-* **Graduation**                                                `2012 - 2016`   <br/>
+* **Graduation in Computer Science** `2012 - 2016`   <br/>
   <small>
-    Pursued bachelor's degree in 
-    **Computer Science** from                                   <br/>
-    <i class="fa fa-institution" aria-hidden="true"></i> 
     **D Y Patil College of Engineering,**
     <i class="fa fa-map-marker" aria-hidden="true"></i> 
     **Akurdi, Pune.**
   </small>
 
-* **Higher Education**                                          `2010 - 2012`   <br/>
+* **Higher Education** `2010 - 2012`   <br/>
   <small>
-    Pursued higher education from                               <br />
-    <i class="fa fa-institution" aria-hidden="true"></i> 
     **Bharat English School & Jr. College, <i class="fa fa-map-marker" aria-hidden="true"></i> Shivajinagar, Pune.**
   </small>
 
-* **Primary Education**                                         `2000 - 2010`   <br/>
+* **Primary Education** `2000 - 2010`   <br/>
   <small>
-    Pursued primary education from                              <br />
-    <i class="fa fa-institution" aria-hidden="true"></i> 
     **Prerana Prathmik & Madhyamik Vidyalaya, <i class="fa fa-map-marker" aria-hidden="true"></i> Pune**
   </small>
 
