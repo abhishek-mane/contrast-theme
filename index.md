@@ -39,7 +39,7 @@ toc: true
 <!-- 
   <==========================> START  : Programming Skills
 -->
-## Skills & Technologies <i class='fa fa-laptop' aria-hidden='true'></i>
+## SKILLS & PROFICIENCY <i class='fa fa-laptop' aria-hidden='true'></i>
   <table class="skills_table">
     <colgroup>
        <col span="1" style="width: 20%;">
