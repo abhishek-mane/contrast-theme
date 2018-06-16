@@ -50,7 +50,7 @@ toc: true
   - `Java`
   <table>
   <tr>
-    <td>`JavaScript`</td>
+    <td>JavaScript</td>
     <td>200</td>
   </tr>
   <tr>
@@ -111,6 +111,12 @@ toc: true
     <i class='fa fa-envelope' aria-hidden='true'></i> 
     <a style ="text-decoration: none;" href="mailto:abhishekmane@outlook.in">abhishekmane@outlook.in</a>
   <small>
+<!-- 
+  <==========================> END    : Contact
+-->
+
+# Contact   <i class='fa fa-phone-square' aria-hidden='true'></i>
+  Thi is the simple text require dor me ti hsa dasd daskdd dosd njsd sahdk ashd  s* sjdhs sjhahwhuiw uf fhhfkshdkhfeiuwfhkshf duf iijfksdlkjfiewyfiuufh efufeffiefuijfdnbdfdshubd fdhssuygfyusdgydfyu fuhfudsuihudgu fuesufewufgsudhf sudfeuwfhiuhsdfgdsfhe sfushduhfushuiheiufysu sdfuidhfdsf fsifduhd dsuifh siufhufds uisf sfudsfusidfhsdufsdf dsfs fs fs fsd f sdfdsf sfsdf du sf udsf fd s fdus fs fusdhfshfu sf sdf sf  sf f dsf sf uh suifhsdifhdhushfshsuhfs iu sfis fs f sfus hf hs hfsh hdfh siufhi
 <!-- 
   <==========================> END    : Contact
 -->
