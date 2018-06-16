@@ -10,7 +10,6 @@ toc: true
 <!-- 
   <==========================> START  : Experience
 -->
-# Test
 ## EXPERIENCE <i class="fa fa-line-chart" aria-hidden="true"></i> 
 
 * **GSLab, <i class="fa fa-map-marker" aria-hidden="true"></i> Pune**   `Aug 2016 - Present`                        <br />
@@ -80,7 +79,7 @@ toc: true
         </td>
         <td>
           <div>
-            <div style="width: 40%;">-</div>
+            <div style="width: 30%;">-</div>
           </div>
         </td>
       </tr>
