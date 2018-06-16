@@ -13,6 +13,7 @@ toc: true
 ## EXPERIENCE <i class="fa fa-line-chart" aria-hidden="true"></i> 
 
 * **GSLab, <i class="fa fa-map-marker" aria-hidden="true"></i> Pune**   `Aug 2016 - Present`
+  
   Currently working as software developer. Have been part of different projects
   * IBM IoT and Analytics
   * IBM Cloud Orchestrator L3 Support
