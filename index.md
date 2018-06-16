@@ -39,10 +39,7 @@ toc: true
 <!-- 
   <==========================> START  : Programming Skills
 -->
-## Programming      <i class='fa fa-laptop' aria-hidden='true'></i>
-  <small>
-    I've good programming experience with languages,
-  <small>
+## Skills & Technologies <i class='fa fa-laptop' aria-hidden='true'></i>
   <table style="border:none;">
   <tr style="border:none;">
     <td>
