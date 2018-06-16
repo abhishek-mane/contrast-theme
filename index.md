@@ -51,15 +51,27 @@ toc: true
   <table>
   <tr>
     <td>JavaScript</td>
-    <td>200</td>
+    <td>
+      <div style="width: 100%;background-color: #ddd;">
+        <div style="text-align: right;padding-right: 20px;line-height: 40px;color: white;">65%</div>
+      </div>
+    </td>
   </tr>
   <tr>
     <td><h3>Python</h3></td>
-    <td>200</td>
+    <td>
+      <div style="width: 100%;background-color: #ddd;">
+        <div style="text-align: right;padding-right: 20px;line-height: 40px;color: white;">65%</div>
+      </div>
+    </td>
   </tr>
   <tr>
     <td><h4>Java</h4></td>
-    <td>200</td>
+    <td>
+      <div style="width: 100%;background-color: #ddd;">
+        <div style="text-align: right;padding-right: 20px;line-height: 40px;color: white;">65%</div>
+      </div>
+    </td>
   </tr>
   </table>
 
