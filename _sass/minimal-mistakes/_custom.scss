@@ -5,5 +5,17 @@
 
 .skills_table > tbody > tr > td {
     text-align:center; 
-    border-bottom: none
+    border-bottom: none;
+}
+
+.skills_table > tbody > tr > td > div{
+    width: 100%;
+    background-color: #ddd;
+}
+
+.skills_table > tbody > tr > td > div > div{
+    background-color: #1E824C; 
+    line-height: 5px;
+    color: #1E824C; 
+    border-radius:5px;
 }

@@ -42,8 +42,10 @@ toc: true
 ## Skills & Technologies <i class='fa fa-laptop' aria-hidden='true'></i>
   <table class="skills_table">
     <colgroup>
-       <col span="1" style="width: 50%;">
-       <col span="1" style="width: 50%;">
+       <col span="1" style="width: 25%;">
+       <col span="1" style="width: 25%;">
+       <col span="1" style="width: 25%;">
+       <col span="1" style="width: 25%;">
     </colgroup>
     <tbody>
       <tr>
@@ -51,8 +53,16 @@ toc: true
           <img src="https://cdn4.iconfinder.com/data/icons/logos-3/456/nodejs-new-pantone-black-64.png"/>
         </td>
         <td>
-          <div style="width: 100%;background-color: #ddd;">
-            <div style="width: 90%; background-color: #1E824C; line-height: 5px;color: #1E824C; border-radius:5px;">-</div>
+          <div>
+            <div style="width: 90%;">-</div>
+          </div>
+        </td>
+        <td>
+          <img src="https://cdn4.iconfinder.com/data/icons/logos-3/456/nodejs-new-pantone-black-64.png"/>
+        </td>
+        <td>
+          <div>
+            <div style="width: 90%;">-</div>
           </div>
         </td>
       </tr>
@@ -61,8 +71,16 @@ toc: true
           <img src="https://cdn4.iconfinder.com/data/icons/logos-3/456/nodejs-new-pantone-black-64.png"/>
         </td>
         <td>
-          <div style="width: 100%;background-color: #ddd;">
-            <div style="width: 90%; background-color: #1E824C; line-height: 5px;color: #1E824C; border-radius:5px;">-</div>
+          <div>
+            <div style="width: 90%;">-</div>
+          </div>
+        </td>
+        <td>
+          <img src="https://cdn4.iconfinder.com/data/icons/logos-3/456/nodejs-new-pantone-black-64.png"/>
+        </td>
+        <td>
+          <div>
+            <div style="width: 90%;">-</div>
           </div>
         </td>
       </tr>
@@ -71,18 +89,16 @@ toc: true
           <img src="https://cdn4.iconfinder.com/data/icons/logos-3/456/nodejs-new-pantone-black-64.png"/>
         </td>
         <td>
-          <div style="width: 100%;background-color: #ddd;">
-            <div style="width: 90%; background-color: #1E824C; line-height: 5px;color: #1E824C; border-radius:5px;">-</div>
+          <div>
+            <div style="width: 90%;">-</div>
           </div>
         </td>
-      </tr>
-      <tr>
         <td>
           <img src="https://cdn4.iconfinder.com/data/icons/logos-3/456/nodejs-new-pantone-black-64.png"/>
         </td>
         <td>
-          <div style="width: 100%;background-color: #ddd;">
-            <div style="width: 90%; background-color: #1E824C; line-height: 5px;color: #1E824C; border-radius:5px;">-</div>
+          <div>
+            <div style="width: 90%;">-</div>
           </div>
         </td>
       </tr>
