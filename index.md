@@ -11,7 +11,7 @@ toc: true
   <==========================> START  : Experience
 -->
 # Test
-## EXPERIENCE <i class="fa fa-globe" aria-hidden="true"></i> 
+## EXPERIENCE <i class="fa fa-line-chart" aria-hidden="true"></i> 
 
 * **GSLab, <i class="fa fa-map-marker" aria-hidden="true"></i> Pune**   `Aug 2016 - Present`                        <br />
   <small>
