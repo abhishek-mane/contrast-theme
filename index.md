@@ -133,7 +133,7 @@ toc: true
 
 * **Graduation in Computer Science** `2012 - 2016`   <br/>
   <small>
-    **D Y Patil College of Engineering,**
+    **D. Y. Patil College of Engineering,**
     <i class="fa fa-map-marker" aria-hidden="true"></i> 
     **Akurdi, Pune.**
   </small>
