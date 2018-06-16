@@ -50,29 +50,29 @@ toc: true
     <tbody>
       <tr>
         <td>
-          <img src="https://cdn4.iconfinder.com/data/icons/logos-3/456/nodejs-new-pantone-black-64.png"/>
+          <img src="https://raw.githubusercontent.com/abhishek-mane/contrast-theme/master/assets/images/tech-logos/python-64.png"/>
         </td>
         <td>
           <div>
-            <div style="width: 90%;">-</div>
+            <div style="width: 80%;">-</div>
           </div>
         </td>
         <td>
-          <img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-64.png"/>
+          <img src="https://raw.githubusercontent.com/abhishek-mane/contrast-theme/master/assets/images/tech-logos/js-64.png"/>
         </td>
         <td>
           <div>
-            <div style="width: 90%;">-</div>
+            <div style="width: 80%;">-</div>
           </div>
         </td>
       </tr>
       <tr>
         <td>
-          <img src="https://cdn4.iconfinder.com/data/icons/scripting-and-programming-languages/512/1416364765_java_coffee_x_cup_application-2-64.png"/>
+          <img src="https://raw.githubusercontent.com/abhishek-mane/contrast-theme/master/assets/images/tech-logos/nodejs-64.png"/>
         </td>
         <td>
           <div>
-            <div style="width: 90%;">-</div>
+            <div style="width: 60%;">-</div>
           </div>
         </td>
         <td>
@@ -80,25 +80,25 @@ toc: true
         </td>
         <td>
           <div>
-            <div style="width: 90%;">-</div>
+            <div style="width: 40%;">-</div>
           </div>
         </td>
       </tr>
       <tr>
         <td>
-          <img src="https://cdn4.iconfinder.com/data/icons/logos-3/456/nodejs-new-pantone-black-64.png"/>
+          <img src="https://raw.githubusercontent.com/abhishek-mane/contrast-theme/master/assets/images/tech-logos/spark-64.png"/>
         </td>
         <td>
           <div>
-            <div style="width: 90%;">-</div>
+            <div style="width: 60%;">-</div>
           </div>
         </td>
         <td>
-          <img src="https://cdn4.iconfinder.com/data/icons/logos-3/456/nodejs-new-pantone-black-64.png"/>
+          <img src="https://raw.githubusercontent.com/abhishek-mane/contrast-theme/master/assets/images/tech-logos/hadoop-64.png"/>
         </td>
         <td>
           <div>
-            <div style="width: 90%;">-</div>
+            <div style="width: 60%;">-</div>
           </div>
         </td>
       </tr>
