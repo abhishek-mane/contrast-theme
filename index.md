@@ -128,29 +128,13 @@ toc: true
 -->
 ## EDUCATION <i class="fa fa-pencil" aria-hidden="true"></i> 
 
-This is normal para
+* **Graduation in Computer Science** `2012 - 2016` 
+  <i class="fa fa-institution" aria-hidden="true"></i> **D Y Patil College of Engineering,** <i class="fa fa-map-marker" aria-hidden="true"></i> **Akurdi, Pune.**
+* **Higher Education** `2010 - 2012` 
+  <i class="fa fa-institution" aria-hidden="true"></i> **Bharat English School & Jr. College,** <i class="fa fa-map-marker" aria-hidden="true"></i> **Shivajinagar, Pune.**
 
-* Graduation in Computer Science `2012 - 2016`
-
-* **Graduation in Computer Science** `2012 - 2016`   <br/>
-  <small>
-    <i class="fa fa-institution" aria-hidden="true"></i> 
-    **D Y Patil College of Engineering,**
-    <i class="fa fa-map-marker" aria-hidden="true"></i> 
-    **Akurdi, Pune.**
-  </small>
-
-* **Higher Education** `2010 - 2012`   <br/>
-  <small>
-    <i class="fa fa-institution" aria-hidden="true"></i> 
-    **Bharat English School & Jr. College, <i class="fa fa-map-marker" aria-hidden="true"></i> Shivajinagar, Pune.**
-  </small>
-
-* **Primary Education** `2000 - 2010`   <br/>
-  <small>
-    <i class="fa fa-institution" aria-hidden="true"></i> 
-    **Prerana Prathmik & Madhyamik Vidyalaya, <i class="fa fa-map-marker" aria-hidden="true"></i> Pune**
-  </small>
+* **Primary Education** `2000 - 2010`
+  <i class="fa fa-institution" aria-hidden="true"></i> **Prerana Prathmik & Madhyamik Vidyalaya,** <i class="fa fa-map-marker" aria-hidden="true"></i> **Pune**
 
 <!-- 
   <==========================> END    : Education
