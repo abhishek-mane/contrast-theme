@@ -48,7 +48,7 @@ toc: true
   - `C`
   - `Python`
   - `Java`
-  <table>
+  <table style="border:none;">
   <tr>
     <td>JavaScript</td>
     <td>
