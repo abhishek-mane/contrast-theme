@@ -43,17 +43,12 @@ toc: true
   <small>
     I've good programming experience with languages,
   <small>
-  - `JavaScript`
-  - `Go`
-  - `C`
-  - `Python`
-  - `Java`
   <table style="border:none;">
   <tr style="border:none;">
     <td><h1>JavaScript</h1></td>
     <td>
       <div style="width: 100%;background-color: #ddd;">
-        <div style="width: 90%; background-color: #D35400;text-align: right;padding-right: 20px;line-height: 5px;color: #D35400; border-radius:5px;">-</div>
+        <div style="width: 90%; background-color: #1E824C;text-align: right;padding-right: 20px;line-height: 5px;color: #1E824C; border-radius:5px;">-</div>
       </div>
     </td>
   </tr>
