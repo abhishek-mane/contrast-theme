@@ -128,14 +128,14 @@ toc: true
 -->
 ## EDUCATION <i class="fa fa-pencil" aria-hidden="true"></i> 
 
-* **Graduation in Computer Science** `2012 - 2016` from _D. Y. Patil College of Engineering, Akurdi, Pune._
+* **Graduation in Computer Science** `2012 - 2016` 
+  <br/><i><i class="fa fa-institution" aria-hidden="true"></i> D. Y. Patil College of Engineering, <i class="fa fa-map-marker" aria-hidden="true"></i> Akurdi, Pune.</i>
 
 * **Higher Education** `2010 - 2012` 
-  <br/><i class="fa fa-institution" aria-hidden="true"></i> _Bharat English School & Jr. College,_ <i class="fa fa-map-marker" aria-hidden="true"></i> _Shivajinagar, Pune._
+  <br/><i><i class="fa fa-institution" aria-hidden="true"></i> Bharat English School & Jr. College, <i class="fa fa-map-marker" aria-hidden="true"></i> Shivajinagar, Pune.</i>
 
 * **Primary Education** `2000 - 2010`
-  <br/>
-  <span style="color: #6BB9F0"><i class="fa fa-institution" aria-hidden="true"></i> _Prerana Prathmik & Madhyamik Vidyalaya,_ <i class="fa fa-map-marker" aria-hidden="true"></i> _Pune_</span>
+  <br/><i><i class="fa fa-institution" aria-hidden="true"></i> Prerana Prathmik & Madhyamik Vidyalaya, <i class="fa fa-map-marker" aria-hidden="true"></i> Pune</i>
 
 <!-- 
   <==========================> END    : Education
