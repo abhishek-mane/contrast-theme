@@ -24,8 +24,6 @@ toc: true
     </li>
   </ul>
 </div>
-* **GSLab, <i class="fa fa-map-marker" aria-hidden="true"></i> Pune**   `Aug 2016 - Present`
-  <br/>Currently working as software developer. Have been part of different projects
   
 
 <!-- 
