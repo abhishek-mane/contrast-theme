@@ -48,16 +48,16 @@ toc: true
     </colgroup>
     <tbody>
       <tr>
-        <td>
-          Python
+        <td style="text-align: right;">
+          <strong>Python</strong>
         </td>
         <td>
           <div>
             <div style="width: 80%;">-</div>
           </div>
         </td>
-        <td>
-          JavaScript
+        <td style="text-align: right;">
+          <strong>JavaScript</strong>
         </td>
         <td>
           <div>
@@ -66,7 +66,7 @@ toc: true
         </td>
       </tr>
       <tr>
-        <td>
+        <td style="text-align: right;">
           NodeJS
         </td>
         <td>
@@ -74,7 +74,7 @@ toc: true
             <div style="width: 60%;">-</div>
           </div>
         </td>
-        <td>
+        <td style="text-align: right;">
           Golang
         </td>
         <td>
@@ -84,7 +84,7 @@ toc: true
         </td>
       </tr>
       <tr>
-        <td>
+        <td style="text-align: right;">
           MongoDB
         </td>
         <td>
@@ -92,7 +92,7 @@ toc: true
             <div style="width: 60%;">-</div>
           </div>
         </td>
-        <td>
+        <td style="text-align: right;">
           CouchDB
         </td>
         <td>
@@ -102,7 +102,7 @@ toc: true
         </td>
       </tr>
       <tr>
-        <td>
+        <td style="text-align: right;">
           Apache Spark
         </td>
         <td>
@@ -110,7 +110,7 @@ toc: true
             <div style="width: 60%;">-</div>
           </div>
         </td>
-        <td>
+        <td style="text-align: right;">
           Apache Hadoop
         </td>
         <td>
