@@ -8,6 +8,11 @@
     border-bottom: none;
 }
 
+.skills_table > tbody > tr > td > svg{
+    display: inline-block;
+    vertical-align: middle;
+}
+
 .skills_table > tbody > tr > img {
     height: 39px;
 }
