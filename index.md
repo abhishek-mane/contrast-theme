@@ -43,7 +43,7 @@ toc: true
     <li>
       <strong>Air Pollution Monitoring</strong>
       <code class="highlighter-rouge">June 2015 - May 2016</code>
-      <code class="highlighter-rouge rnd-label">LIVE</code>
+      <code class="highlighter-rouge rnd-label">INTERNAL</code>
       <br/>
       <span>
         Some details will go here about the project.
