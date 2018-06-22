@@ -36,6 +36,8 @@ toc: true
       <span>
         Some details will go here about the project.
         technologies used => etc, etc, etc, etc, etc, etc, 
+        <br/>
+        <a class='btn btn--primary'>VIEW ON <i class="fa fa-github" aria-hidden="true"></i></a>
       </span>
     </li>
     <li>
