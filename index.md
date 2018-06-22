@@ -13,7 +13,10 @@ toc: true
 <div class="cv_content">
   <ul>
     <li>
-      <strong>GSLab, <i class="fa fa-map-marker" aria-hidden="true"></i> Pune</strong> <code class="highlighter-rouge">Aug 2016 - Present</code>
+      <strong>GSLab, <i class="fa fa-map-marker" aria-hidden="true"></i> Pune</strong> <code class="highlighter-rouge">Aug 2016 - Present</code><br/>
+      <span>
+        Currently working as software developer. Have been part of different projects.
+      </span>
     </li>
   </ul>
 </div>
