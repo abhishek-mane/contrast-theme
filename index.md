@@ -231,13 +231,13 @@ toc: true
   <==========================> START  : Contact
 -->
 ## CONTACT   <i class='fa fa-phone-square' aria-hidden='true'></i>
-  <small>
-    <i class='fa fa-phone' aria-hidden='true'></i> 
-    <a style ="text-decoration: none;" href="tel:+918626073884">(+91) 86260 73884</a>
-    &nbsp; &nbsp;
-    <i class='fa fa-envelope' aria-hidden='true'></i> 
-    <a style ="text-decoration: none;" href="mailto:abhishekmane@outlook.in">abhishekmane@outlook.in</a>
-  <small>
+<div class="cv_content">
+  <i class='fa fa-phone' aria-hidden='true'></i> 
+  <a style ="text-decoration: none;" href="tel:+918626073884">(+91) 86260 73884</a>
+  <br/>
+  <i class='fa fa-envelope' aria-hidden='true'></i> 
+  <a style ="text-decoration: none;" href="mailto:abhishekmane@outlook.in">abhishekmane@outlook.in</a>
+</div>
 <!-- 
   <==========================> END    : Contact
 -->
