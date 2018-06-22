@@ -16,14 +16,17 @@ toc: true
       <strong>GSLab, <i class="fa fa-map-marker" aria-hidden="true"></i> Pune</strong> <code class="highlighter-rouge">Aug 2016 - Present</code><br/>
       <span>
         Currently working as software developer. Have been part of different projects.
+        <ul>
+          <li>IBM IoT and Analytics</li>
+          <li>IBM Cloud Orchestrator L3 Support</li>
+        </ul>
       </span>
     </li>
   </ul>
 </div>
 * **GSLab, <i class="fa fa-map-marker" aria-hidden="true"></i> Pune**   `Aug 2016 - Present`
   <br/>Currently working as software developer. Have been part of different projects
-  - IBM IoT and Analytics
-  - IBM Cloud Orchestrator L3 Support
+  
 
 <!-- 
   <==========================> END    : Experience
