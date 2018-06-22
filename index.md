@@ -10,6 +10,13 @@ toc: true
 -->
 ## EXPERIENCE <i class="fa fa-line-chart" aria-hidden="true"></i> 
 
+<div class="vc_content">
+  <ul>
+    <li>
+      <strong>GSLab, <i class="fa fa-map-marker" aria-hidden="true"></i> Pune</strong> <code class="highlighter-rouge">Aug 2016 - Present</code>
+    </li>
+  </ul>
+</div>
 * **GSLab, <i class="fa fa-map-marker" aria-hidden="true"></i> Pune**   `Aug 2016 - Present`
   <br/>Currently working as software developer. Have been part of different projects
   - IBM IoT and Analytics
