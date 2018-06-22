@@ -19,9 +19,9 @@
 }
 
 .skills_table > tbody > tr > td > div > div{
-    background-color: #353839; 
+    background-color: mix(#000, $gray, 40%);
     line-height: 5px;
-    color: #353839; 
+    color: mix(#000, $gray, 40%);
     border-radius:5px;
 }
 
