@@ -20,7 +20,6 @@ toc: true
     </li>
   </ul>
 </div>
-  
 
 <!-- 
   <==========================> END    : Experience
@@ -132,8 +131,16 @@ toc: true
 -->
 ## EDUCATION <i class="fa fa-pencil" aria-hidden="true"></i> 
 
-* **Graduation in Computer Science** `2012 - 2016` 
-  <br/><i style="font-size:0.85em"><i class="fa fa-institution" aria-hidden="true"></i> D. Y. Patil College of Engineering, <i class="fa fa-map-marker" aria-hidden="true"></i> Akurdi, Pune.</i>
+<div class="cv_content">
+  <ul>
+    <li>
+      <strong>Graduation in Computer Science</strong> <code class="highlighter-rouge">2012 - 2016</code><br/>
+      <span>
+        <i class="fa fa-institution" aria-hidden="true"></i> D. Y. Patil College of Engineering, <i class="fa fa-map-marker" aria-hidden="true"></i> Akurdi, Pune
+      </span>
+    </li>
+  </ul>
+</div>
 
 * **Higher Education** `2010 - 2012` 
   <br/><i style="font-size:0.85em"><i class="fa fa-institution" aria-hidden="true"></i> Bharat English School & Jr. College, <i class="fa fa-map-marker" aria-hidden="true"></i> Shivajinagar, Pune.</i>
