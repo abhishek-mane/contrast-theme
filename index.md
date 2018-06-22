@@ -29,7 +29,16 @@ toc: true
   <==========================> START  : Projects
 -->
 ## PROJECTS <i class="fa fa-lightbulb-o" aria-hidden="true"></i>
-  <small>Projects are yet to add. working on it...</small>
+<div class="cv_content">
+  <ul>
+    <li>
+      <strong>Vulnerability Assessment Using logs as Big Data</strong> <code class="highlighter-rouge">June 2015 - May 2016</code><br/>
+      <span>
+        Currently working as software developer. Have been part of different projects.
+      </span>
+    </li>
+  </ul>
+</div>
 <!-- 
   <==========================> END    : Projects
 -->
@@ -42,7 +51,7 @@ toc: true
   <table class="skills_table">
     <colgroup>
        <col span="1" style="width: 20%;">
-       <col span="1" style="width: 30%; border-right: 1px solid #BFBFBF">
+       <col span="1" style="width: 30%;">
        <col span="1" style="width: 20%;">
        <col span="1" style="width: 30%;">
     </colgroup>
