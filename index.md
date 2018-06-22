@@ -41,7 +41,10 @@ toc: true
       </span>
     </li>
     <li>
-      <strong>Air Pollution Monitoring</strong> <code class="highlighter-rouge">June 2015 - May 2016</code><br/>
+      <strong>Air Pollution Monitoring</strong>
+      <code class="highlighter-rouge">June 2015 - May 2016</code>
+      <code class="highlighter-rouge rnd-label">LIVE</code>
+      <br/>
       <span>
         Some details will go here about the project.
         technologies used => etc, etc, etc, etc, etc, etc, 
