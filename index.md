@@ -67,7 +67,7 @@ toc: true
       </tr>
       <tr>
         <td style="text-align: right;">
-          NodeJS
+          <strong>NodeJS</strong>
         </td>
         <td>
           <div>
@@ -75,7 +75,7 @@ toc: true
           </div>
         </td>
         <td style="text-align: right;">
-          Golang
+          <strong>Golang</strong>
         </td>
         <td>
           <div>
@@ -85,7 +85,7 @@ toc: true
       </tr>
       <tr>
         <td style="text-align: right;">
-          MongoDB
+          <strong>MongoDB</strong>
         </td>
         <td>
           <div>
@@ -93,7 +93,7 @@ toc: true
           </div>
         </td>
         <td style="text-align: right;">
-          CouchDB
+          <strong>CouchDB</strong>
         </td>
         <td>
           <div>
@@ -103,7 +103,7 @@ toc: true
       </tr>
       <tr>
         <td style="text-align: right;">
-          Apache Spark
+          <strong>Apache Spark</strong>
         </td>
         <td>
           <div>
@@ -111,7 +111,7 @@ toc: true
           </div>
         </td>
         <td style="text-align: right;">
-          Apache Hadoop
+          <strong>Apache Hadoop</strong>
         </td>
         <td>
           <div>
