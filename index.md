@@ -136,19 +136,25 @@ toc: true
     <li>
       <strong>Graduation in Computer Science</strong> <code class="highlighter-rouge">2012 - 2016</code><br/>
       <span>
-        <i><i class="fa fa-institution" aria-hidden="true"></i> D. Y. Patil College of Engineering, <i class="fa fa-map-marker" aria-hidden="true"></i> Akurdi, Pune.</i>
+        <i>
+          <i class="fa fa-institution" aria-hidden="true"></i> D. Y. Patil College of Engineering, <i class="fa fa-map-marker" aria-hidden="true"></i> Akurdi, Pune.
+        </i>
       </span>
     </li>
     <li>
       <strong>Higher Education</strong> <code class="highlighter-rouge">2010 - 2012</code><br/>
       <span>
-        <i class="fa fa-institution" aria-hidden="true"></i> Bharat English School & Jr. College, <i class="fa fa-map-marker" aria-hidden="true"></i> Shivajinagar, Pune.
+        <i>
+          <i class="fa fa-institution" aria-hidden="true"></i> Bharat English School & Jr. College, <i class="fa fa-map-marker" aria-hidden="true"></i> Shivajinagar, Pune.
+        </i>
       </span>
     </li>
     <li>
       <strong>Primary Education</strong> <code class="highlighter-rouge">2000 - 2010</code><br/>
       <span>
-        <i class="fa fa-institution" aria-hidden="true"></i> Prerana Prathmik & Madhyamik Vidyalaya, <i class="fa fa-map-marker" aria-hidden="true"></i> Pune.
+        <i>
+          <i class="fa fa-institution" aria-hidden="true"></i> Prerana Prathmik & Madhyamik Vidyalaya <i class="fa fa-map-marker" aria-hidden="true"></i> Pune.
+        </i>
       </span>
     </li>
   </ul>
