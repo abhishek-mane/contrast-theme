@@ -49,7 +49,7 @@ toc: true
     <tbody>
       <tr>
         <td>
-          <img src="https://raw.githubusercontent.com/abhishek-mane/contrast-theme/master/assets/images/tech-logos/python-64.png"/>
+          Python
         </td>
         <td>
           <div>
@@ -57,7 +57,7 @@ toc: true
           </div>
         </td>
         <td>
-          <img src="https://raw.githubusercontent.com/abhishek-mane/contrast-theme/master/assets/images/tech-logos/js-64.png"/>
+          JavaScript
         </td>
         <td>
           <div>
@@ -67,7 +67,7 @@ toc: true
       </tr>
       <tr>
         <td>
-          <img src="https://raw.githubusercontent.com/abhishek-mane/contrast-theme/master/assets/images/tech-logos/nodejs-64.png"/>
+          NodeJS
         </td>
         <td>
           <div>
@@ -75,7 +75,7 @@ toc: true
           </div>
         </td>
         <td>
-          <img src="https://raw.githubusercontent.com/abhishek-mane/contrast-theme/master/assets/images/tech-logos/golang-64.png"/>
+          Golang
         </td>
         <td>
           <div>
@@ -85,7 +85,7 @@ toc: true
       </tr>
       <tr>
         <td>
-          <img src="https://raw.githubusercontent.com/abhishek-mane/contrast-theme/master/assets/images/tech-logos/mongodb.png"/>
+          MongoDB
         </td>
         <td>
           <div>
@@ -93,7 +93,7 @@ toc: true
           </div>
         </td>
         <td>
-          <img src="https://raw.githubusercontent.com/abhishek-mane/contrast-theme/master/assets/images/tech-logos/couchdb.png"/>
+          CouchDB
         </td>
         <td>
           <div>
@@ -103,7 +103,7 @@ toc: true
       </tr>
       <tr>
         <td>
-          <img src="https://raw.githubusercontent.com/abhishek-mane/contrast-theme/master/assets/images/tech-logos/spark-64.png"/>
+          Apache Spark
         </td>
         <td>
           <div>
@@ -111,7 +111,7 @@ toc: true
           </div>
         </td>
         <td>
-          <img src="https://raw.githubusercontent.com/abhishek-mane/contrast-theme/master/assets/images/tech-logos/hadoop.png"/>
+          Apache Hadoop
         </td>
         <td>
           <div>
@@ -167,7 +167,7 @@ toc: true
 <!-- 
   <==========================> START  : Contact
 -->
-## CONTACT <i class='fa fa-phone-square' aria-hidden='true'></i>
+## CONTACT   <i class='fa fa-phone-square' aria-hidden='true'></i>
   <small>
     <i class='fa fa-phone' aria-hidden='true'></i> 
     <a style ="text-decoration: none;" href="tel:+918626073884">(+91) 86260 73884</a>
