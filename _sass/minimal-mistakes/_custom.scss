@@ -4,7 +4,7 @@
 }
 
 .skills_table > tbody > tr > td {
-    text-align: center; 
+    text-align: left; 
     border-bottom: none;
 }
 
@@ -14,6 +14,7 @@
 
 .skills_table > tbody > tr > td > div{
     width: 100%;
+    border-radius:5px;
     background-color: #ddd;
 }
 
