@@ -232,11 +232,13 @@ toc: true
 -->
 ## CONTACT   <i class='fa fa-phone-square' aria-hidden='true'></i>
 <div class="cv_content">
-  <i class='fa fa-phone' aria-hidden='true'></i> 
-  <a style ="text-decoration: none;" href="tel:+918626073884">(+91) 86260 73884</a>
-  <br/>
-  <i class='fa fa-envelope' aria-hidden='true'></i> 
-  <a style ="text-decoration: none;" href="mailto:abhishekmane@outlook.in">abhishekmane@outlook.in</a>
+  <small>
+    <i class='fa fa-phone' aria-hidden='true'></i> 
+    <a style ="text-decoration: none;" href="tel:+918626073884">(+91) 86260 73884</a>
+    <br/>
+    <i class='fa fa-envelope' aria-hidden='true'></i> 
+    <a style ="text-decoration: none;" href="mailto:abhishekmane@outlook.in">abhishekmane@outlook.in</a>
+  </small>
 </div>
 <!-- 
   <==========================> END    : Contact
