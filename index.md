@@ -30,7 +30,7 @@ toc: true
 -->
 ## PROJECTS <i class="fa fa-lightbulb-o" aria-hidden="true"></i>
 <div class="cv_content">
-  <ul>
+  <ol>
     <li>
       <strong>Vulnerability Assessment Using logs as Big Data</strong> <code class="highlighter-rouge">June 2015 - May 2016</code><br/>
       <span>
@@ -52,7 +52,7 @@ toc: true
         technologies used => etc, etc, etc, etc, etc, etc, 
       </span>
     </li>
-  </ul>
+  </ol>
 </div>
 <!-- 
   <==========================> END    : Projects
