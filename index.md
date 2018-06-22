@@ -34,7 +34,7 @@ toc: true
     <li>
       <strong>Vulnerability Assessment Using logs as Big Data</strong> <code class="highlighter-rouge">June 2015 - May 2016</code><br/>
       <span>
-        Currently working as software developer. Have been part of different projects.
+        
       </span>
     </li>
   </ul>
