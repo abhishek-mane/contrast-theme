@@ -34,7 +34,22 @@ toc: true
     <li>
       <strong>Vulnerability Assessment Using logs as Big Data</strong> <code class="highlighter-rouge">June 2015 - May 2016</code><br/>
       <span>
-        
+        Some details will go here about the project.
+        technologies used => etc, etc, etc, etc, etc, etc, 
+      </span>
+    </li>
+    <li>
+      <strong>Air Pollution Monitoring</strong> <code class="highlighter-rouge">June 2015 - May 2016</code><br/>
+      <span>
+        Some details will go here about the project.
+        technologies used => etc, etc, etc, etc, etc, etc, 
+      </span>
+    </li>
+    <li>
+      <strong>Spark based knowledge exrtaction techniques</strong> <code class="highlighter-rouge">June 2015 - May 2016</code><br/>
+      <span>
+        Some details will go here about the project.
+        technologies used => etc, etc, etc, etc, etc, etc, 
       </span>
     </li>
   </ul>
