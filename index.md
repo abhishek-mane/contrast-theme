@@ -39,6 +39,7 @@ toc: true
   <==========================> START  : Programming Skills
 -->
 ## SKILLS & PROFICIENCY <i class='fa fa-bar-chart' aria-hidden='true'></i>
+<div class="cv_content">
   <table class="skills_table">
     <colgroup>
        <col span="1" style="width: 20%;">
@@ -121,7 +122,7 @@ toc: true
       </tr>
     </tbody>
   </table>
-
+</div>
 <!-- 
   <==========================> END    : Programming Skills
 -->
