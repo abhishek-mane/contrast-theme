@@ -42,7 +42,7 @@ toc: true
   <table class="skills_table">
     <colgroup>
        <col span="1" style="width: 20%;">
-       <col span="1" style="width: 30%;">
+       <col span="1" style="width: 30%; border-right: 1px solid #BFBFBF">
        <col span="1" style="width: 20%;">
        <col span="1" style="width: 30%;">
     </colgroup>
