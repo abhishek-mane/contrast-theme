@@ -167,7 +167,7 @@ toc: true
 <!-- 
   <==========================> START  : Contact
 -->
-## Contact   <i class='fa fa-phone-square' aria-hidden='true'></i>
+## CONTACT <i class='fa fa-phone-square' aria-hidden='true'></i>
   <small>
     <i class='fa fa-phone' aria-hidden='true'></i> 
     <a style ="text-decoration: none;" href="tel:+918626073884">(+91) 86260 73884</a>
