@@ -139,14 +139,20 @@ toc: true
         <i class="fa fa-institution" aria-hidden="true"></i> D. Y. Patil College of Engineering, <i class="fa fa-map-marker" aria-hidden="true"></i> Akurdi, Pune
       </span>
     </li>
+    <li>
+      <strong>Higher Education</strong> <code class="highlighter-rouge">2010 - 2012</code><br/>
+      <span>
+        <i class="fa fa-institution" aria-hidden="true"></i> Bharat English School & Jr. College, <i class="fa fa-map-marker" aria-hidden="true"></i> Shivajinagar, Pune.
+      </span>
+    </li>
+    <li>
+      <strong>Primary Education</strong> <code class="highlighter-rouge">2000 - 2010</code><br/>
+      <span>
+        <i class="fa fa-institution" aria-hidden="true"></i> Prerana Prathmik & Madhyamik Vidyalaya, <i class="fa fa-map-marker" aria-hidden="true"></i> Pune.
+      </span>
+    </li>
   </ul>
 </div>
-
-* **Higher Education** `2010 - 2012` 
-  <br/><i style="font-size:0.85em"><i class="fa fa-institution" aria-hidden="true"></i> Bharat English School & Jr. College, <i class="fa fa-map-marker" aria-hidden="true"></i> Shivajinagar, Pune.</i>
-
-* **Primary Education** `2000 - 2010`
-  <br/><i style="font-size:0.85em"><i class="fa fa-institution" aria-hidden="true"></i> Prerana Prathmik & Madhyamik Vidyalaya, <i class="fa fa-map-marker" aria-hidden="true"></i> Pune</i>
 
 <!-- 
   <==========================> END    : Education
