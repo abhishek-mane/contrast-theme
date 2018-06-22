@@ -134,6 +134,24 @@ toc: true
       </tr>
       <tr>
         <td style="text-align: right;">
+          <strong>OpenStack</strong>
+        </td>
+        <td>
+          <div>
+            <div style="width: 60%;">-</div>
+          </div>
+        </td>
+        <td style="text-align: right;">
+          <strong>Docker</strong>
+        </td>
+        <td>
+          <div>
+            <div style="width: 80%;">-</div>
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: right;">
           <strong>Apache Spark</strong>
         </td>
         <td>
