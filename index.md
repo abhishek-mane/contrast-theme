@@ -144,7 +144,7 @@ toc: true
       <tr>
         <td style="text-align: right;">
           <strong>OpenStack</strong>
-        </td>height="20px" width="20px"
+        </td>
         <td>
           <div>
             <div style="width: 60%;">-</div>
