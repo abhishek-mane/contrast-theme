@@ -34,7 +34,7 @@ date: 2018-06-23T17:10:45.025Z
 <!-- Place this tag in your head or just before your close body tag. -->
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 
-## PROJECTS <i class="fa fa-lightbulb-o" aria-hidden="true"></i>
+## Projects <i class="fa fa-lightbulb-o" aria-hidden="true"></i>
 <div class="cv_content">
   <ul>
     <li>
@@ -150,7 +150,7 @@ date: 2018-06-23T17:10:45.025Z
 <!-- 
   <==========================> START  : Programming Skills
 -->
-## SKILLS & PROFICIENCY <i class='fa fa-bar-chart' aria-hidden='true'></i>
+## Skills & Proficiency <i class='fa fa-bar-chart' aria-hidden='true'></i>
 <div class="cv_content">
   <table class="skills_table">
     <colgroup>
@@ -269,7 +269,7 @@ date: 2018-06-23T17:10:45.025Z
 <!-- 
   <==========================> START  : Education
 -->
-## EDUCATION <i class="fa fa-pencil" aria-hidden="true"></i> 
+## Education <i class="fa fa-pencil" aria-hidden="true"></i> 
 
 <div class="cv_content">
   <ul>
@@ -313,7 +313,7 @@ date: 2018-06-23T17:10:45.025Z
 <!-- 
   <==========================> START  : Contact
 -->
-## CONTACT   <i class='fa fa-phone-square' aria-hidden='true'></i>
+## Contact <i class='fa fa-phone-square' aria-hidden='true'></i>
 <div class="cv_content">
   <small>
     <i class='fa fa-phone' aria-hidden='true'></i> 
