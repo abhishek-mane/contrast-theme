@@ -63,14 +63,17 @@ toc: true
       </span>
     </li>
     <li>
-      <strong>Air Pollution Monitoring</strong>
+      <strong>Air Quality Monitoring</strong>
       <code class="highlighter-rouge">June 2015 - May 2016</code>
       <code class="highlighter-rouge rnd-label">INTERNAL</code>
       <br/>
       <span>
-        Some details will go here about the project.
-        technologies used => etc, etc, etc, etc, etc, etc, 
+        Its a central air quality monitoring dashbard which will help people of the city to identify how affected is the particular area with dangerous pollutants. Air quality sensor simulators were used to periodically send the data to central service for analysis.
         <br/>
+        <button class='btn btn--small btn--light-outline tech-label'>NodeJS</button>
+        <button class='btn btn--small btn--light-outline tech-label'>CouchDB</button>
+        <button class='btn btn--small btn--light-outline tech-label'>Node-RED</button>
+        <button class='btn btn--small btn--light-outline tech-label'>IBM IoT Platform</button>
         <a class='btn btn--primary'>VIEW ON <i class="fa fa-github" aria-hidden="true"></i></a>
       </span>
     </li>
