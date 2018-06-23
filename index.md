@@ -50,22 +50,6 @@ toc: true
       </span>
     </li>
     <li>
-      <strong>Vulnerability Assessment Using logs as Big Data</strong>
-      <code class="highlighter-rouge ">June 2015 - May 2016</code><br/>
-      <span>
-        Some details will go here about the project.
-        technologies used => etc, etc, etc, etc, etc, etc, 
-        <br/>
-        <button class='btn btn--small btn--light-outline tech-label'>Java</button>
-        <button class='btn btn--small btn--light-outline tech-label'>Hadoop</button>
-        <button class='btn btn--small btn--light-outline tech-label'>Pig</button>
-        <button class='btn btn--small btn--light-outline tech-label'>JSP</button>
-        <button class='btn btn--small btn--light-outline tech-label'>HTML</button>
-        <button class='btn btn--small btn--light-outline tech-label'>CSS</button>
-        <a target="_blank" href="https://github.com/abhishek-mane/vulnerability-assessment" class='btn btn--small btn--primary'>VIEW ON <i class="fa fa-github" aria-hidden="true"></i></a>
-      </span>
-    </li>
-    <li>
       <strong>Air Quality Monitoring</strong>
       <code class="highlighter-rouge ">June 2015 - May 2016</code>
       <br/>
@@ -94,6 +78,22 @@ toc: true
       </span>
     </li>
     <li>
+      <strong>Vulnerability Assessment Using logs as Big Data</strong>
+      <code class="highlighter-rouge ">June 2015 - May 2016</code><br/>
+      <span>
+        Some details will go here about the project.
+        technologies used => etc, etc, etc, etc, etc, etc, 
+        <br/>
+        <button class='btn btn--small btn--light-outline tech-label'>Java</button>
+        <button class='btn btn--small btn--light-outline tech-label'>Hadoop</button>
+        <button class='btn btn--small btn--light-outline tech-label'>Pig</button>
+        <button class='btn btn--small btn--light-outline tech-label'>JSP</button>
+        <button class='btn btn--small btn--light-outline tech-label'>HTML</button>
+        <button class='btn btn--small btn--light-outline tech-label'>CSS</button>
+        <a target="_blank" href="https://github.com/abhishek-mane/vulnerability-assessment" class='btn btn--small btn--primary'>VIEW ON <i class="fa fa-github" aria-hidden="true"></i></a>
+      </span>
+    </li>
+    <li>
       <strong>IBM Cloud Orchestrator (ICO)</strong>
       <code class="highlighter-rouge ">Nov 2016 - Jul 2017</code>
       <br/>
@@ -111,6 +111,17 @@ toc: true
       <br/>
       <span>
         IBM BPM based orchestration to migrate the virtual machine from vmware vcenter to hyper-v and vice-versa.
+        <br/>
+        <button class='btn btn--small btn--light-outline tech-label'>IBM BPM</button>
+        <button class='btn btn--small btn--light-outline tech-label'>Powershell</button>
+      </span>
+    </li>
+    <li>
+      <strong>Usage/Cost of cloud resources using OpenStack Ceilometer</strong>
+      <code class="highlighter-rouge ">Sep 2016 - Oct 2016</code>
+      <br/>
+      <span>
+        Used OpenStack Ceilometer python SDK to get the usage of cloud resources to generate the bill from standard rate charts.
         <br/>
         <button class='btn btn--small btn--light-outline tech-label'>IBM BPM</button>
         <button class='btn btn--small btn--light-outline tech-label'>Powershell</button>
