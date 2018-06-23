@@ -93,6 +93,18 @@ toc: true
         <a class='btn btn--primary'>VIEW ON <i class="fa fa-github" aria-hidden="true"></i></a>
       </span>
     </li>
+    <li>
+      <strong>IBM Cloud Orchestrator (ICO)</strong>
+      <code class="highlighter-rouge ">Sep 2017 - Oct 2017</code>
+      <br/>
+      <span>
+        Internal POC to read raw data in spark cluster and finds the correlation between data to provide more insights & statistics. Spark was deployed on the top of Hadoop.
+        <br/>
+        <button class='btn btn--small btn--light-outline tech-label'>Java</button>
+        <button class='btn btn--small btn--light-outline tech-label'>IBM BPM</button>
+        <button class='btn btn--small btn--light-outline tech-label'>JS</button>
+      </span>
+    </li>
   </ul>
 </div>
 <!-- 
