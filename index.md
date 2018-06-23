@@ -1,6 +1,8 @@
 ---
 layout: single
-classes: wide
+classes:
+  - landing
+  - dark-theme
 author_profile: true
 permalink: /
 toc: true
