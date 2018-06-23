@@ -46,6 +46,7 @@ toc: true
         <button class='btn btn--small btn--disabled btn--warning'>Docker</button>
         <code class="highlighter-rouge live-label">LIVE</code>
         <code class="highlighter-rouge tech-label">LIVE</code>
+        <span class="notice--info">Python</span>
       </span>
     </li>
     <li>
