@@ -46,7 +46,6 @@ toc: true
         <button class='btn btn--small btn--facebook'>Spark</button>
         <button class='btn btn--small btn--facebook'>Docker</button>
         <br/>
-        <a class="github-button" href="https://github.com/abhishek-mane/vulnerability-assessment/fork" data-icon="octicon-repo-forked" data-size="large" aria-label="Fork abhishek-mane/vulnerability-assessment on GitHub">Fork</a>
       </span>
     </li>
     <li>
@@ -55,7 +54,7 @@ toc: true
         Some details will go here about the project.
         technologies used => etc, etc, etc, etc, etc, etc, 
         <br/>
-        <a class='btn btn--primary'>VIEW ON <i class="fa fa-github" aria-hidden="true"></i></a>
+        <a class='btn btn--primary'><i class="fa fa-code-fork" aria-hidden="true"> FORK</i></a>
       </span>
     </li>
     <li>
