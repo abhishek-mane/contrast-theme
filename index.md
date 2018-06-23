@@ -81,7 +81,7 @@ toc: true
       <code class="highlighter-rouge ">Sep 2017 - Oct 2017</code>
       <br/>
       <span>
-        Internal POC to read raw data in spark cluster and finds the correlation between data to provide more insights & statistics. Spark was deployed on the top of Hadoop.
+        Internal POC to read raw data in spark cluster and finds the correlation between data to provide more insights and statistics. Spark was deployed on the top of Hadoop.
         <br/>
         <button class='btn btn--small btn--light-outline tech-label'>Spark</button>
         <button class='btn btn--small btn--light-outline tech-label'>Hadoop</button>
