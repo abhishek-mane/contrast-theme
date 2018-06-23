@@ -3,7 +3,6 @@ layout: single
 author_profile: true
 permalink: /
 toc: true
-read_time: true
 ---
 
 <!-- 
