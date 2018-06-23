@@ -38,7 +38,7 @@ toc: true
   <ul>
     <li>
       <strong>IBM Cost And Asset Management (CAM)</strong>
-      <code class="highlighter-rouge">Jan 2018 - Present</code>
+      <code class="highlighter-rouge rnd-label">Jan 2018 - Present</code>
       <br/>
       <span>
         Cost and Asset Management gives hybrid cloud users real-time visibility and actionable insight into their cloud investments.
@@ -50,7 +50,8 @@ toc: true
       </span>
     </li>
     <li>
-      <strong>Vulnerability Assessment Using logs as Big Data</strong> <code class="highlighter-rouge">June 2015 - May 2016</code><br/>
+      <strong>Vulnerability Assessment Using logs as Big Data</strong>
+      <code class="highlighter-rouge rnd-label">June 2015 - May 2016</code><br/>
       <span>
         Some details will go here about the project.
         technologies used => etc, etc, etc, etc, etc, etc, 
@@ -66,7 +67,7 @@ toc: true
     </li>
     <li>
       <strong>Air Quality Monitoring</strong>
-      <code class="highlighter-rouge">June 2015 - May 2016</code>
+      <code class="highlighter-rouge rnd-label">June 2015 - May 2016</code>
       <br/>
       <span>
         Its a central air quality monitoring dashbard which will help people of the city to identify how affected is the particular area with dangerous pollutants. Air quality sensor simulators were used to periodically send the data to central service for analysis.
@@ -80,8 +81,7 @@ toc: true
     </li>
     <li>
       <strong>Spark based knowledge exrtaction techniques</strong>
-      <code class="highlighter-rouge">June 2015 - May 2016</code>
-      <code class="highlighter-rouge live-label">LIVE</code>
+      <code class="highlighter-rouge rnd-label">June 2015 - May 2016</code>
       <br/>
       <span>
         Some details will go here about the project.
