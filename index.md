@@ -98,7 +98,7 @@ toc: true
       <code class="highlighter-rouge ">Sep 2017 - Oct 2017</code>
       <br/>
       <span>
-        IBM Cloud Orchestrator is a cloud management platform that automates provisioning of cloud services using policy-based tools. Worked as a level-3 support team member responsible for fixing the code issues, customer interactions.
+        IBM Cloud Orchestrator is a cloud management platform that automates provisioning of cloud services using policy-based tools. Worked as a level-3 support team member responsible for fixing the code issues and customer interactions.
         <br/>
         <button class='btn btn--small btn--light-outline tech-label'>Java</button>
         <button class='btn btn--small btn--light-outline tech-label'>IBM BPM</button>
