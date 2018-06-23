@@ -44,6 +44,8 @@ toc: true
         <button class='btn btn--small btn--disabled btn--warning'>Pandas</button>
         <button class='btn btn--small btn--disabled btn--warning'>Spark</button>
         <button class='btn btn--small btn--disabled btn--warning'>Docker</button>
+        <code class="highlighter-rouge live-label">LIVE</code>
+        <code class="highlighter-rouge tech-label">LIVE</code>
       </span>
     </li>
     <li>
