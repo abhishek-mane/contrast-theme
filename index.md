@@ -54,7 +54,7 @@ toc: true
         Some details will go here about the project.
         technologies used => etc, etc, etc, etc, etc, etc, 
         <br/>
-        <a class='btn btn--primary'><i class="fa fa-code-fork" aria-hidden="true"> FORK</i></a>
+        <a class='btn btn--primary'><i class="fa fa-code-fork" aria-hidden="true"></i> FORK</a>
       </span>
     </li>
     <li>
