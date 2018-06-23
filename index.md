@@ -95,7 +95,7 @@ toc: true
     </li>
     <li>
       <strong>IBM Cloud Orchestrator (ICO)</strong>
-      <code class="highlighter-rouge ">Sep 2017 - Oct 2017</code>
+      <code class="highlighter-rouge ">Nov 2016 - Jul 2017</code>
       <br/>
       <span>
         IBM Cloud Orchestrator is a cloud management platform that automates provisioning of cloud services using policy-based tools. Worked as a level-3 support team member responsible for fixing the code issues and customer interactions for the issues.
