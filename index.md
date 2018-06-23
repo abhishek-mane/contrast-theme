@@ -37,7 +37,6 @@ toc: true
     <li>
       <strong>IBM Cost And Asset Management (CAM)</strong>
       <code class="highlighter-rouge">Jan 2018 - Present</code>
-      <a class="github-button" href="https://github.com/abhishek-mane/vulnerability-assessment/fork" data-icon="octicon-repo-forked" aria-label="Fork abhishek-mane/vulnerability-assessment on GitHub">Fork</a>
       <br/>
       <span>
         Cost and Asset Management gives hybrid cloud users real-time visibility and actionable insight into their cloud investments.
@@ -46,6 +45,8 @@ toc: true
         <button class='btn btn--small btn--facebook'>Pandas</button>
         <button class='btn btn--small btn--facebook'>Spark</button>
         <button class='btn btn--small btn--facebook'>Docker</button>
+        <br/>
+        <a class="github-button" href="https://github.com/abhishek-mane/vulnerability-assessment/fork" data-icon="octicon-repo-forked" data-size="large" aria-label="Fork abhishek-mane/vulnerability-assessment on GitHub">Fork</a>
       </span>
     </li>
     <li>
