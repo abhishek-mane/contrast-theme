@@ -17,7 +17,7 @@ toc: true
       <code class="highlighter-rouge ">Aug 2016 - Present</code>
       <br/>
       <span>
-        Working as Software Developer.
+        Software Developer
       </span>
     </li>
   </ul>
