@@ -105,6 +105,18 @@ toc: true
         <button class='btn btn--small btn--light-outline tech-label'>JS</button>
       </span>
     </li>
+    <li>
+      <strong>Virtual Machine Migration</strong>
+      <code class="highlighter-rouge ">Oct 2016 - Nov 2016</code>
+      <br/>
+      <span>
+        IBM BPM based orchestration to migrate the virtual machine from vmware vcenter to hyper-v and vice-versa.
+        <br/>
+        <button class='btn btn--small btn--light-outline tech-label'>Java</button>
+        <button class='btn btn--small btn--light-outline tech-label'>IBM BPM</button>
+        <button class='btn btn--small btn--light-outline tech-label'>JS</button>
+      </span>
+    </li>
   </ul>
 </div>
 <!-- 
