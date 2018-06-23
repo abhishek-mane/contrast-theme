@@ -123,8 +123,8 @@ toc: true
       <span>
         Used OpenStack Ceilometer python SDK to get the usage of cloud resources to generate the bill from standard rate charts.
         <br/>
-        <button class='btn btn--small btn--light-outline tech-label'>IBM BPM</button>
-        <button class='btn btn--small btn--light-outline tech-label'>Powershell</button>
+        <button class='btn btn--small btn--light-outline tech-label'>Python</button>
+        <button class='btn btn--small btn--light-outline tech-label'>OpenStack</button>
       </span>
     </li>
   </ul>
