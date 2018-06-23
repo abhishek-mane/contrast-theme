@@ -39,6 +39,7 @@ toc: true
     <li>
       <strong>IBM Cost And Asset Management (CAM)</strong>
       <code class="highlighter-rouge ">Jan 2018 - Present</code>
+      <code class="highlighter-rouge live-label">LIVE</code>
       <br/>
       <span>
         Cost and Asset Management gives hybrid cloud users real-time visibility and actionable insight into their cloud investments.
@@ -108,6 +109,7 @@ toc: true
     <li>
       <strong>IBM Cloud Orchestrator (ICO)</strong>
       <code class="highlighter-rouge ">Nov 2016 - Jul 2017</code>
+      <code class="highlighter-rouge live-label">LIVE</code>
       <br/>
       <span>
         IBM Cloud Orchestrator is a cloud management platform that automates provisioning of cloud services using policy-based tools. Worked as a level-3 support team member responsible for fixing the code issues and customer interactions for the issues.
