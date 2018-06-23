@@ -13,7 +13,9 @@ toc: true
 <div class="cv_content">
   <ul>
     <li>
-      <strong>GSLab, <i class="fa fa-map-marker" aria-hidden="true"></i> Pune</strong> <code class="highlighter-rouge">Aug 2016 - Present</code><br/>
+      <strong>GSLab, <i class="fa fa-map-marker" aria-hidden="true"></i> Pune</strong>
+      <code class="highlighter-rouge rnd-label">Aug 2016 - Present</code>
+      <br/>
       <span>
         Currently working as software developer. Have been part of different projects.
       </span>
@@ -65,7 +67,6 @@ toc: true
     <li>
       <strong>Air Quality Monitoring</strong>
       <code class="highlighter-rouge">June 2015 - May 2016</code>
-      <code class="highlighter-rouge rnd-label">INTERNAL</code>
       <br/>
       <span>
         Its a central air quality monitoring dashbard which will help people of the city to identify how affected is the particular area with dangerous pollutants. Air quality sensor simulators were used to periodically send the data to central service for analysis.
