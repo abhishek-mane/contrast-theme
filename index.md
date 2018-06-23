@@ -44,6 +44,8 @@ toc: true
         <button class='btn btn--small btn--disabled btn--inverse'>Pandas</button>
         <button class='btn btn--small btn--disabled btn--primary'>Spark</button>
         <button class='btn btn--small btn--disabled btn--primary'>Docker</button>
+        <button class='btn btn--small btn--disabled btn--light-outline'>Docker</button>
+        <button class='btn btn--small btn--disabled btn--light-outline'>Docker</button>
       </span>
     </li>
     <li>
