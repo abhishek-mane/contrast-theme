@@ -94,8 +94,7 @@ toc: true
       <strong>Vulnerability Assessment Using logs as Big Data</strong>
       <code class="highlighter-rouge ">June 2015 - May 2016</code><br/>
       <span>
-        Some details will go here about the project.
-        technologies used => etc, etc, etc, etc, etc, etc, 
+        A linux based system capable of detecting and notifying vulnerabilities (like intrusions, password cracking attempt, etc) of each and every machine by collecting system logs and analyze them using Hadoop.
         <br/>
         <button class='btn btn--small btn--light-outline tech-label'>Java</button>
         <button class='btn btn--small btn--light-outline tech-label'>Hadoop</button>
