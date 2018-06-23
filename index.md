@@ -20,7 +20,7 @@ toc: true
       <code class="highlighter-rouge ">Aug 2016 - Present</code>
       <br/>
       <span>
-        Software Developer
+        <i class='fa fa-laptop' aria-hidden='true'></i> Software Developer
       </span>
     </li>
   </ul>
