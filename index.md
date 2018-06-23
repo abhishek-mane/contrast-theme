@@ -106,17 +106,6 @@ toc: true
       </span>
     </li>
     <li>
-      <strong>Virtual Machine Migration</strong>
-      <code class="highlighter-rouge ">Oct 2016 - Nov 2016</code>
-      <br/>
-      <span>
-        IBM BPM based orchestration to migrate the virtual machine from vmware vcenter to hyper-v and vice-versa.
-        <br/>
-        <button class='btn btn--small btn--light-outline tech-label'>IBM BPM</button>
-        <button class='btn btn--small btn--light-outline tech-label'>Powershell</button>
-      </span>
-    </li>
-    <li>
       <strong>Usage/Cost of cloud resources using OpenStack Ceilometer</strong>
       <code class="highlighter-rouge ">Sep 2016 - Oct 2016</code>
       <br/>
@@ -125,6 +114,17 @@ toc: true
         <br/>
         <button class='btn btn--small btn--light-outline tech-label'>Python</button>
         <button class='btn btn--small btn--light-outline tech-label'>OpenStack</button>
+      </span>
+    </li>
+    <li>
+      <strong>Virtual Machine Migration</strong>
+      <code class="highlighter-rouge ">Oct 2016 - Nov 2016</code>
+      <br/>
+      <span>
+        IBM BPM based orchestration to migrate the virtual machine from vmware vcenter to hyper-v and vice-versa.
+        <br/>
+        <button class='btn btn--small btn--light-outline tech-label'>IBM BPM</button>
+        <button class='btn btn--small btn--light-outline tech-label'>Powershell</button>
       </span>
     </li>
   </ul>
