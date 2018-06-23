@@ -86,6 +86,10 @@ toc: true
       <span>
         Internal POC to read raw data in spark cluster and finds the correlation between data to provide more insights & statistics. Spark was deployed on the top of Hadoop.
         <br/>
+        <button class='btn btn--small btn--light-outline tech-label'>Spark</button>
+        <button class='btn btn--small btn--light-outline tech-label'>Hadoop</button>
+        <button class='btn btn--small btn--light-outline tech-label'>Python</button>
+        <button class='btn btn--small btn--light-outline tech-label'>HTML</button>
         <a class='btn btn--primary'>VIEW ON <i class="fa fa-github" aria-hidden="true"></i></a>
       </span>
     </li>
