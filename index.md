@@ -32,6 +32,21 @@ toc: true
 <div class="cv_content">
   <ul>
     <li>
+      <strong>IBM Cost And Asset Management (CAM)</strong>
+      <code class="highlighter-rouge">Jan 2018 - Present</code>
+      <code class="highlighter-rouge live-label">LIVE</code>
+      <br/>
+      <span>
+        Cost and Asset Management gives hybrid cloud users real-time visibility and actionable insight into their cloud investments.
+        <br/>
+        <code class="highlighter-rouge tech-label">Developer</code>
+        <code class="highlighter-rouge tech-label">Python</code>
+        <code class="highlighter-rouge tech-label">Pandas</code>
+        <code class="highlighter-rouge tech-label">Spark</code>
+        <code class="highlighter-rouge tech-label">Docker</code>
+      </span>
+    </li>
+    <li>
       <strong>Vulnerability Assessment Using logs as Big Data</strong> <code class="highlighter-rouge">June 2015 - May 2016</code><br/>
       <span>
         Some details will go here about the project.
