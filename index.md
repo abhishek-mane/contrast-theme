@@ -54,11 +54,7 @@ toc: true
       <code class="highlighter-rouge ">Jan 2018 - Mar 2018</code>
       <br/>
       <span>
-        This is basically the docker-compose dynamic script designed for developer to setup the entire dev environment easily and test the local changes. Advantages of this over the kubernetes deplyments are,
-        <ul>
-          <li>On the fly code changes inside the containers using docker's bind volume</li>
-          <li>No image build required if code is changed, reflecting the code changes are as easy as restarting the container.</li>
-          <li>DNS proxy server for compose script which allows devloper to directly communicate with the containers using their names directly from the docker host. No need to mess with IPs anymore.</li>
+        This is basically the docker-compose dynamic script designed for developer to setup the entire dev environment easily and test the local changes. Advantages of this over the kubernetes deplyments are, <strong><i>On the fly code changes, DNS proxy server</i></strong> etc
         </ul>
         <br/>
         <button class='btn btn--small btn--light-outline tech-label'>Python</button>
