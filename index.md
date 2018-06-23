@@ -72,7 +72,7 @@ toc: true
         <button class='btn btn--small btn--light-outline tech-label'>CouchDB</button>
         <button class='btn btn--small btn--light-outline tech-label'>Node-RED</button>
         <button class='btn btn--small btn--light-outline tech-label'>IBM IoT Platform</button>
-        <a class='btn btn--primary'>VIEW ON <i class="fa fa-github" aria-hidden="true"></i></a>
+        <a class='btn btn--small btn--primary'>VIEW ON <i class="fa fa-github" aria-hidden="true"></i></a>
       </span>
     </li>
     <li>
@@ -86,7 +86,7 @@ toc: true
         <button class='btn btn--small btn--light-outline tech-label'>Hadoop</button>
         <button class='btn btn--small btn--light-outline tech-label'>Python</button>
         <button class='btn btn--small btn--light-outline tech-label'>HTML</button>
-        <a class='btn btn--primary'>VIEW ON <i class="fa fa-github" aria-hidden="true"></i></a>
+        <a class='btn btn--small btn--primary'>VIEW ON <i class="fa fa-github" aria-hidden="true"></i></a>
       </span>
     </li>
     <li>
