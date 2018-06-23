@@ -53,6 +53,7 @@ toc: true
         Some details will go here about the project.
         technologies used => etc, etc, etc, etc, etc, etc, 
         <br/>
+        <button class='btn btn--small btn--light-outline tech-label'>Java</button>
         <button class='btn btn--small btn--light-outline tech-label'>Hadoop</button>
         <button class='btn btn--small btn--light-outline tech-label'>Pig</button>
         <button class='btn btn--small btn--light-outline tech-label'>JSP</button>
