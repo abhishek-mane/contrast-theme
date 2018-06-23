@@ -44,7 +44,7 @@ toc: true
         <code class="highlighter-rouge tech-label">Pandas</code>
         <code class="highlighter-rouge tech-label">Spark</code>
         <code class="highlighter-rouge tech-label">Docker</code>
-        <button class='btn btn--small btn--warning'></button>
+        <button class='btn btn--small btn--warning'>Developer</button>
       </span>
     </li>
     <li>
