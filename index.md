@@ -41,10 +41,10 @@ toc: true
       <span>
         Cost and Asset Management gives hybrid cloud users real-time visibility and actionable insight into their cloud investments.
         <br/>
-        <button class='btn btn--small btn--light-outline'>Python</button>
-        <button class='btn btn--small btn--light-outline'>Pandas</button>
-        <button class='btn btn--small btn--light-outline'>Spark</button>
-        <button class='btn btn--small btn--light-outline'>Docker</button>
+        <button class='btn btn--small btn--light-outline tech-label'>Python</button>
+        <button class='btn btn--small btn--light-outline tech-label'>Pandas</button>
+        <button class='btn btn--small btn--light-outline tech-label'>Spark</button>
+        <button class='btn btn--small btn--light-outline tech-label'>Docker</button>
         <a class='btn btn--primary'>VIEW ON <i class="fa fa-github" aria-hidden="true"></i></a>
       </span>
     </li>
