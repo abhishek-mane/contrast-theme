@@ -9,7 +9,7 @@ date: 2018-06-23T17:10:45.025Z
 <!-- 
   <==========================> START  : Experience
 -->
-## EXPERIENCE <i class="fa fa-line-chart" aria-hidden="true"></i> 
+## Experience <i class="fa fa-line-chart" aria-hidden="true"></i> 
 
 <div class="cv_content">
   <ul>
