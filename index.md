@@ -45,7 +45,6 @@ toc: true
         <button class='btn btn--small btn--light-outline tech-label'>Pandas</button>
         <button class='btn btn--small btn--light-outline tech-label'>Spark</button>
         <button class='btn btn--small btn--light-outline tech-label'>Docker</button>
-        <a class='btn btn--small btn--primary'>VIEW ON <i class="fa fa-github" aria-hidden="true"></i></a>
       </span>
     </li>
     <li>
@@ -54,7 +53,12 @@ toc: true
         Some details will go here about the project.
         technologies used => etc, etc, etc, etc, etc, etc, 
         <br/>
-        <a class='btn btn--primary'><i class="fa fa-code-fork" aria-hidden="true"></i> FORK</a>
+        <button class='btn btn--small btn--light-outline tech-label'>Hadoop</button>
+        <button class='btn btn--small btn--light-outline tech-label'>Pig</button>
+        <button class='btn btn--small btn--light-outline tech-label'>JSP</button>
+        <button class='btn btn--small btn--light-outline tech-label'>HTML</button>
+        <button class='btn btn--small btn--light-outline tech-label'>CSS</button>
+        <a class='btn btn--small btn--primary'>VIEW ON <i class="fa fa-github" aria-hidden="true"></i></a>
       </span>
     </li>
     <li>
