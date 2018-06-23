@@ -35,6 +35,10 @@ div.cv_content{
     font-size: 0.875em;
 }
 
+div.cv_content > ul > li{
+    margin-bottom: 10px;
+}
+
 div.cv_content > ul > li > span{
     // color: #545454;
     color: #333333;

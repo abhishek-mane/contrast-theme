@@ -46,7 +46,6 @@ toc: true
         <button class='btn btn--small btn--light-outline tech-label'>Spark</button>
         <button class='btn btn--small btn--light-outline tech-label'>Docker</button>
       </span>
-      <br/>
     </li>
     <li>
       <strong>Vulnerability Assessment Using logs as Big Data</strong> <code class="highlighter-rouge">June 2015 - May 2016</code><br/>
