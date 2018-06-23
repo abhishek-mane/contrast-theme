@@ -112,9 +112,8 @@ toc: true
       <span>
         IBM BPM based orchestration to migrate the virtual machine from vmware vcenter to hyper-v and vice-versa.
         <br/>
-        <button class='btn btn--small btn--light-outline tech-label'>Java</button>
         <button class='btn btn--small btn--light-outline tech-label'>IBM BPM</button>
-        <button class='btn btn--small btn--light-outline tech-label'>JS</button>
+        <button class='btn btn--small btn--light-outline tech-label'>Powershell</button>
       </span>
     </li>
   </ul>
