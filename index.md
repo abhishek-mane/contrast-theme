@@ -17,7 +17,7 @@ toc: true
       <code class="highlighter-rouge ">Aug 2016 - Present</code>
       <br/>
       <span>
-        Currently working as software developer. Have been part of different projects.
+        Working as Software Developer.
       </span>
     </li>
   </ul>
@@ -80,12 +80,11 @@ toc: true
       </span>
     </li>
     <li>
-      <strong>Spark based knowledge exrtaction techniques</strong>
-      <code class="highlighter-rouge ">June 2015 - May 2016</code>
+      <strong>Apache Spark based statistic reporting from large datasets</strong>
+      <code class="highlighter-rouge ">Sep 2017 - Oct 2017</code>
       <br/>
       <span>
-        Some details will go here about the project.
-        technologies used => etc, etc, etc, etc, etc, etc,
+        Internal POC to read raw data in spark cluster and finds the correlation between data to provide more insights & statistics. Spark was deployed on the top of Hadoop.
         <br/>
         <a class='btn btn--primary'>VIEW ON <i class="fa fa-github" aria-hidden="true"></i></a>
       </span>
