@@ -62,7 +62,7 @@ toc: true
         <button class='btn btn--small btn--light-outline tech-label'>JSP</button>
         <button class='btn btn--small btn--light-outline tech-label'>HTML</button>
         <button class='btn btn--small btn--light-outline tech-label'>CSS</button>
-        <a class='btn btn--small btn--primary'>VIEW ON <i class="fa fa-github" aria-hidden="true"></i></a>
+        <a target="_blank" href="https://github.com/abhishek-mane/vulnerability-assessment" class='btn btn--small btn--primary'>VIEW ON <i class="fa fa-github" aria-hidden="true"></i></a>
       </span>
     </li>
     <li>
