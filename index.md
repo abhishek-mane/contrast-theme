@@ -34,12 +34,11 @@ toc: true
     <li>
       <strong>IBM Cost And Asset Management (CAM)</strong>
       <code class="highlighter-rouge">Jan 2018 - Present</code>
-      <code class="highlighter-rouge live-label">LIVE</code>
+      <a class='btn btn--primary'>VIEW ON <i class="fa fa-github" aria-hidden="true"></i></a>
       <br/>
       <span>
         Cost and Asset Management gives hybrid cloud users real-time visibility and actionable insight into their cloud investments.
         <br/>
-        <button class='btn btn--small btn--facebook'>Developer</button>
         <button class='btn btn--small btn--facebook'>Python</button>
         <button class='btn btn--small btn--facebook'>Pandas</button>
         <button class='btn btn--small btn--facebook'>Spark</button>
