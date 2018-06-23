@@ -45,7 +45,7 @@ toc: true
         <button class='btn btn--small btn--light-outline'>Pandas</button>
         <button class='btn btn--small btn--light-outline'>Spark</button>
         <button class='btn btn--small btn--light-outline'>Docker</button>
-        <br/>
+        <a class='btn btn--primary'>VIEW ON <i class="fa fa-github" aria-hidden="true"></i></a>
       </span>
     </li>
     <li>
